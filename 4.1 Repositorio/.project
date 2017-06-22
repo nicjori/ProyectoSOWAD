@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>4.1 Repositorios</name>
+	<name>4.1 Repositorio</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>3.1 Entidad</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/3.1%20Entidad/src</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
